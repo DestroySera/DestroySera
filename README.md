@@ -1,47 +1,22 @@
-<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00c4ff&height=300&section=header&text=Han%20Seok&fontSize=90&fontColor=ffffff" />
-</div>
+# 서한석 (HanSeok Seo)
 
-* * *
+게임 프로그래머를 목표로 공부하고 있습니다.
 
-<h1 align=center>🛠 Tech Stack 🛠<br><br> </h1>
-<div align=center> 
-  <img src="https://img.shields.io/badge/Java-ff6a00?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp</br>
-  <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp</br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white"/></a>&nbsp
+- 고등학교 컴퓨터네트워크과에서 Java와 Spring Boot로 웹 API 팀 프로젝트를 진행했습니다.
+- 현재는 AI 개발 도구(Claude Code)로 만든 언리얼 C++ 프로젝트를 직접 분석하며, C++와 언리얼 엔진을 기초부터 공부하고 있습니다.
 
-  <h2 align=center> DBMS </h2>
-   <div display = flex>
-    <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">&nbsp
-    </div>
-  
-  <h2 align=center> OS </h2>
-    <div display = flex>
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white">&nbsp
-    <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">&nbsp
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=black">&nbsp
-    <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=black">&nbsp
-    </div>
-  
-</div>
+## 배운 것
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 
-* * *
-<h1 align=center>💻 HanSeok 💻<br><br> </h1>
-<div align=center> 
-  <a href='https://www.instagram.com/destroy030413/' ><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
-  
-</div>
+## 지금 공부하는 것
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-* * *
-
-
-</div>
+## 프로젝트
+| 프로젝트 | 설명 |
+|---|---|
+| [FirstGame_CoinCollectGame](https://github.com/DestroySera/FirstGame_CoinCollectGame) | UE5 + C++ 코인 수집 게임. AI 도구로 제작 후 코드를 분석하며 학습 중 |
+| [Springboot-University_API](https://github.com/DestroySera/Springboot-University_API) | 고등학교 Spring Boot 웹 API 프로젝트 |
+| [Javaschool-coding](https://github.com/DestroySera/Javaschool-coding) | 도제 과정 Java 코딩 실습 |
