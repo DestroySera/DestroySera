@@ -18,5 +18,5 @@
 | 프로젝트 | 설명 |
 |---|---|
 | [FirstGame_CoinCollectGame](https://github.com/DestroySera/FirstGame_CoinCollectGame) | UE5 + C++ 코인 수집 게임. AI 도구로 제작 후 코드를 분석하며 학습 중 |
-| [Springboot-University_API](https://github.com/DestroySera/Springboot-University_API) | 고등학교 Spring Boot 웹 API 프로젝트 |
-| [Javaschool-coding](https://github.com/DestroySera/Javaschool-coding) | 도제 과정 Java 코딩 실습 |
+| [Springboot-University_API](https://github.com/DestroySera/Springboot-University_API) | 고등학교 Spring Boot 웹 API 프로젝트 (AI 없이 직접 학습하며 작성) |
+| [Javaschool-coding](https://github.com/DestroySera/Javaschool-coding) | 도제 과정 Java 코딩 실습 (직접 작성) |
